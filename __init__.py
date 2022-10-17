@@ -1,1 +1,1 @@
-from .ambientweather import WeatherData
+from .ambientweatherdata import WeatherData
